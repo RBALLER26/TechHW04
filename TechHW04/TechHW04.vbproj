@@ -93,6 +93,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="PageFour.aspx" />
+    <Content Include="PageThree.aspx" />
     <Content Include="PageTwo.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -129,6 +131,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PageFour.aspx.designer.vb">
+      <DependentUpon>PageFour.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageFour.aspx.vb">
+      <DependentUpon>PageFour.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PageThree.aspx.designer.vb">
+      <DependentUpon>PageThree.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageThree.aspx.vb">
+      <DependentUpon>PageThree.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="PageTwo.aspx.designer.vb">
       <DependentUpon>PageTwo.aspx</DependentUpon>
