@@ -36,7 +36,7 @@
 				<td>Patient Age</td>
 				<td>Patient Species</td>
 				<td>Patient Owner</td>
-				<td>Patient Name</td>
+				<td>PatientID</td>
 			</tr>
 			<!-- Row 4 -->
 			<tr>
