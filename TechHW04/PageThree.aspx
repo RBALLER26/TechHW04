@@ -103,7 +103,7 @@
 	<div>
 		<button class="btn btn-primary">Send Message</button>
 	</div>
-	<div>
+	<div style="text-align:center;">
 		<h2> Update Patient Medical Records</h2>
 	</div>
 	<div class = "jumbotron text-center" id="UpdateRecord">
@@ -131,7 +131,7 @@
 
 			<!-- Row 4 -->
 			<tr> 
-				<td colspan="3">
+				<td colspan="2">
 					<button class="btn btn-primary">Update</button>
 				</td>
 				<td>PatientID</td>

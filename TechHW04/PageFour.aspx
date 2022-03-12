@@ -22,8 +22,8 @@
 	  <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">This is a cancelled order</a>
 	  <a href="#" class="list-group-item list-group-item-action list-group-item-success">This is a fulfilled order</a>
 	  <a href="#" class="list-group-item list-group-item-action list-group-item-danger">This is an overdue order</a>
-	  <a href="#" class="list-group-item list-group-item-action list-group-item-warning">This is an order nearing it's fulfillment date</a>
-	  <a href="#" class="list-group-item list-group-item-action list-group-item-info">This is a recent order</a>
+	  <a href="#" class="list-group-item list-group-item-action list-group-item-warning">This is a shipped order</a>
+	  <a href="#" class="list-group-item list-group-item-action list-group-item-info">This is a received order</a>
 	  <a href="#" class="list-group-item list-group-item-action list-group-item-light">This is an archived order</a>
 	  <a href="#" class="list-group-item list-group-item-action list-group-item-dark">This is an out of stock order</a>
 	</div>
@@ -53,7 +53,7 @@
 
 			<!-- Row 4 -->
 			<tr> 
-				<td colspan="3">
+				<td colspan="2">
 					<button class="btn btn-primary">Update</button>
 				</td>
 				<td>PatientID</td>
